@@ -1,6 +1,6 @@
 {
   "name": "cannot-even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that refuses to even",
   "main": "index.js",
   "repository": {
