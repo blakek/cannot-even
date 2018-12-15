@@ -14,7 +14,7 @@
     "test": "npm run lint && ava"
   },
   "devDependencies": {
-    "ava": "^0.18.2",
+    "ava": "^1.0.1",
     "snazzy": "^6.0.0",
     "standard": "^10.0.0"
   }
